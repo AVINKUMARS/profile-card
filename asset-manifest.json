@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AVINKUMARS/profile-card.git/static/css/main.d16162ed.css",
+    "main.js": "/AVINKUMARS/profile-card.git/static/js/main.e56076be.js",
+    "static/js/488.599d522a.chunk.js": "/AVINKUMARS/profile-card.git/static/js/488.599d522a.chunk.js",
+    "index.html": "/AVINKUMARS/profile-card.git/index.html",
+    "main.d16162ed.css.map": "/AVINKUMARS/profile-card.git/static/css/main.d16162ed.css.map",
+    "main.e56076be.js.map": "/AVINKUMARS/profile-card.git/static/js/main.e56076be.js.map",
+    "488.599d522a.chunk.js.map": "/AVINKUMARS/profile-card.git/static/js/488.599d522a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16162ed.css",
+    "static/js/main.e56076be.js"
+  ]
+}
